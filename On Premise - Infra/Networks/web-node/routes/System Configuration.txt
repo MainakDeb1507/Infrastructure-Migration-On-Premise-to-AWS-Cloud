@@ -1,5 +1,5 @@
 General
-Name: spine-node
+Name: web-node
 Operating System: Ubuntu 22.04.5 LTS (64-bit)
 Groups: Networks
 
@@ -18,7 +18,5 @@ Controller: SATA
 SATA Port 0: spine-node.vdi (Normal, 15.00 GB)
 
 Network
-Adapter 1: Intel PRO/1000 MT Desktop (Host-only Adapter, 'VirtualBox Host-Only Ethernet Adapter #3')
-Adapter 2: Intel PRO/1000 MT Desktop (Host-only Adapter, 'VirtualBox Host-Only Ethernet Adapter #4')
-Adapter 3: Intel PRO/1000 MT Desktop (Host-only Adapter, 'VirtualBox Host-Only Ethernet Adapter #5')
-Adapter 4: Intel PRO/1000 MT Desktop (NAT)
+Adapter 1: Intel PRO/1000 MT Desktop (Host-only Adapter, 'VirtualBox Host-Only Ethernet Adapter #5')
+Adapter 2: Intel PRO/1000 MT Desktop (NAT)
