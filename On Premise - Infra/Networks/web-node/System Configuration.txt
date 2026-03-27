@@ -15,7 +15,7 @@ Controller: IDE
 IDE Primary Device 0: [Optical Drive] Empty
 
 Controller: SATA
-SATA Port 0: spine-node.vdi (Normal, 15.00 GB)
+SATA Port 0: web-node.vdi (Normal, 15.00 GB)
 
 Network
 Adapter 1: Intel PRO/1000 MT Desktop (Host-only Adapter, 'VirtualBox Host-Only Ethernet Adapter #5')
