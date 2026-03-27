@@ -1,0 +1,22 @@
+﻿Assest,MEN IP,OS,is VM,Server Type,Enviourment,Service
+rhel8-devserver01,10.0.10.5,RHEL 8,yes,Application,devlopment,prodservice1
+rhel9-devserver01,10.0.10.7,RHEL 9,yes,Application,devlopment,prodservice2
+suse12-devapp01,10.0.10.9,SUSE 12,yes,Application,devlopment,prodservice3
+ubu22-testserver01,10.0.10.31,ubuntu 22,yes,Application,devlopment,My SQL
+rhel8-prdserver01,10.0.10.16,RHEL 8,yes,Application,production,prodservice1
+rhel8-prdserver02,10.0.10.17,RHEL 8,yes,Application,production,prodservice1
+rhel9-prdserver01,10.0.10.24,RHEL 9,yes,Application,production,prodservice2
+win22-prdapp01,10.0.10.25,Windows 22,yes,Application,production,prodservice3
+suse12-prdapp01,10.0.10.26,SUSE 12,yes,Application,production,prodservice3
+ubu24-prddbs01,10.0.30.3,ubuntu 24,yes,DB,production,My SQL
+rhel8-prddbm01,10.0.30.4,RHEL 8,yes,DB,production,Maria DB
+ubu24-devdbs01,10.0.30.12,ubuntu 24,yes,DB,devlopment,My SQL
+rhel8-devdbm01,10.0.30.6,RHEL 8,yes,DB,devlopment,Maria DB
+rhel8-websvra01,10.0.20.8,RHEL 8,yes,Web,production,Apache
+rhel8-websvrn02,10.0.20.9,RHEL 8,yes,Web,production,NginX
+rhel9-websvr01,10.0.20.3,RHEL 9,yes,Web,production,monitoring
+suse12-websvr01,10.0.20.10,SUSE 12,yes,Web,production,webservice1
+spine-node,10.0.xx.15,ubuntu 22,yes,appliance,production,Network
+app-node,10.0.10.21,ubuntu 22,yes,appliance,production,Network
+web-node,10.0.20.22,ubuntu 22,yes,appliance,production,Network
+db-node,10.0.30.23,ubuntu 22,yes,appliance,production,Network
